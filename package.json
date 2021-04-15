@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -15,7 +15,7 @@
     "build": "tsdx build",
     "test": "tsdx test",
     "prepare": "tsdx build",
-    "publish": "npx np --no-release-draft --no-2fa" 
+    "push": "npx np --no-release-draft --no-2fa"
   },
   "peerDependencies": {
     "react": ">= 16.8.0"
