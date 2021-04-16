@@ -32,5 +32,6 @@
     "tslib": "^2.2.0",
     "typescript": "^4.2.4"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": "github:Torvin/react-ref-composer"
 }
